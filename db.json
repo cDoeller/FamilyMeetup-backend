@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Cycling and Picknick",
+      "image_url": "https://www.intrepidtravel.com/sites/intrepid/files/Intrepid%20Travel-Vietnam_cycling_group_IMG_5563.jpg",
+      "description": "A cycling trip for 3 hours",
+      "date": "12/3/2024",
+      "time": "12:00",
+      "price": 0,
+      "location": "Madrid",
+      "category": "cycling",
+      "participants": 18
+    },
+    {
+      "id": 2,
+      "title": "Cycling and Picknick",
+      "image_url": "https://www.intrepidtravel.com/sites/intrepid/files/Intrepid%20Travel-Vietnam_cycling_group_IMG_5563.jpg",
+      "description": "A cycling trip for 3 hours",
+      "date": "12/3/2024",
+      "time": "12:00",
+      "price": 0,
+      "location": "Madrid",
+      "category": "cycling",
+      "participants": 18
+    },
+    {
+      "id": 3,
+      "title": "Cycling and Picknick",
+      "image_url": "https://www.intrepidtravel.com/sites/intrepid/files/Intrepid%20Travel-Vietnam_cycling_group_IMG_5563.jpg",
+      "description": "A cycling trip for 3 hours",
+      "date": "12/3/2024",
+      "time": "12:00",
+      "price": 0,
+      "location": "Madrid",
+      "category": "cycling",
+      "participants": 18
+    },
+    {
+      "id": 4,
+      "title": "Cycling and Picknick",
+      "image_url": "https://www.intrepidtravel.com/sites/intrepid/files/Intrepid%20Travel-Vietnam_cycling_group_IMG_5563.jpg",
+      "description": "A cycling trip for 3 hours",
+      "date": "12/3/2024",
+      "time": "12:00",
+      "price": 0,
+      "location": "Madrid",
+      "category": "cycling",
+      "participants": 18
+    },
+    {
+      "id": 5,
+      "title": "Cycling and Picknick",
+      "image_url": "https://www.intrepidtravel.com/sites/intrepid/files/Intrepid%20Travel-Vietnam_cycling_group_IMG_5563.jpg",
+      "description": "A cycling trip for 3 hours",
+      "date": "12/3/2024",
+      "time": "12:00",
+      "price": 0,
+      "location": "Madrid",
+      "category": "cycling",
+      "participants": 18
+    },
+    {
+      "id": 6,
+      "title": "Cycling and Picknick",
+      "image_url": "https://www.intrepidtravel.com/sites/intrepid/files/Intrepid%20Travel-Vietnam_cycling_group_IMG_5563.jpg",
+      "description": "A cycling trip for 3 hours",
+      "date": "12/3/2024",
+      "time": "12:00",
+      "price": 0,
+      "location": "Madrid",
+      "category": "cycling",
+      "participants": 18
+    }
+  ]
+}
