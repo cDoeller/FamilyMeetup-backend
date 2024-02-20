@@ -9,7 +9,7 @@
       "date": "30/6/2024",
       "time": "12:00",
       "price": 0,
-      "location": "Madrid",
+      "location": "madrid",
       "category": "sport",
       "participants": 18
     },
@@ -21,8 +21,8 @@
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "19/5/2024",
       "time": "14:30",
-      "price": 0,
-      "location": "Leipzig",
+      "price": 25,
+      "location": "leipzig",
       "category": "cycling",
       "participants": 5
     },
@@ -35,7 +35,7 @@
       "date": "11/8/2024",
       "time": "07:30",
       "price": 0,
-      "location": "Madrid",
+      "location": "madrid",
       "category": "sport",
       "participants": 13
     },
@@ -47,8 +47,8 @@
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "27/3/2024",
       "time": "12:00",
-      "price": 0,
-      "location": "Leipzig",
+      "price": 12,
+      "location": "leipzig",
       "category": "adventure",
       "participants": 22
     },
@@ -61,7 +61,7 @@
       "date": "21/5/2024",
       "time": "15:00",
       "price": 0,
-      "location": "Leipzig",
+      "location": "leipzig",
       "category": "relax",
       "participants": 17
     },
@@ -73,8 +73,8 @@
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "12/7/2024",
       "time": "12:00",
-      "price": 0,
-      "location": "Madrid",
+      "price": 8,
+      "location": "madrid",
       "category": "travelling",
       "participants": 9
     },
@@ -86,8 +86,8 @@
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "1/7/2024",
       "time": "14:30",
-      "price": 0,
-      "location": "Leipzig",
+      "price": 5,
+      "location": "leipzig",
       "category": "learn",
       "participants": 32
     },
@@ -102,7 +102,7 @@
       "date": "28/3/2024",
       "time": "13:00",
       "price": 0,
-      "location": "Leipzig",
+      "location": "leipzig",
       "category": "relax",
       "participants": 26
     },
@@ -114,8 +114,8 @@
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "12/5/2024",
       "time": "10:30",
-      "price": 0,
-      "location": "Madrid",
+      "price": 18,
+      "location": "madrid",
       "category": "sport",
       "participants": 35
     },
@@ -127,8 +127,8 @@
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "24/6/2024",
       "time": "15:00",
-      "price": 0,
-      "location": "Madrid",
+      "price": 15,
+      "location": "madrid",
       "category": "art",
       "participants": 19
     },
@@ -140,8 +140,8 @@
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "29/4/2024",
       "time": "17:00",
-      "price": 0,
-      "location": "Madrid",
+      "price": 45,
+      "location": "madrid",
       "category": "adventure",
       "participants": 6
     },
@@ -154,7 +154,7 @@
       "date": "12/5/2024",
       "time": "15:30",
       "price": 0,
-      "location": "Leipzig",
+      "location": "leipzig",
       "category": "relax",
       "participants": 5
     }
