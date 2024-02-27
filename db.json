@@ -1,30 +1,32 @@
 {
   "events": [
     {
-      "id": 1,
-      "title": "Cycling and Picknick",
+      "title": "Cycling and Picknick (cute!)",
       "image_url": "https://www.intrepidtravel.com/sites/intrepid/files/Intrepid%20Travel-Vietnam_cycling_group_IMG_5563.jpg",
       "short_description": "A cycling trip for 3 hours",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-06-30",
+      "date_to_seconds": 1719705600000,
       "time": "12:00",
-      "price": 0,
       "location": "madrid",
+      "price": 0,
       "category": "sport",
-      "participants": 18
+      "participants": 18,
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Jump House",
-      "image_url": "https://www.jumphouse.de/assets/data/images/textboxes/1627391794_HHStellingen_Home.jpg",
-      "short_description": "Jumping Jumping Jumping",
+      "title": "jump house 2",
+      "image_url": "https://www.shutterstock.com/image-photo/dolphins-kissing-ocean-600nw-1020693253.jpg",
+      "short_description": "Jumping Jumping Jumpingss",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
-      "date": "2024-05-19",
-      "time": "14:30",
-      "price": 25,
+      "date": "2024-05-17",
+      "time": "15:30",
       "location": "leipzig",
+      "price": 30,
       "category": "cycling",
-      "participants": 5
+      "participants": 30,
+      "date_to_seconds": 1715904000000,
+      "id": 2
     },
     {
       "id": 3,
@@ -33,6 +35,7 @@
       "short_description": "Let's hike to the peak!",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-08-11",
+      "date_to_seconds": 1723334400000,
       "time": "07:30",
       "price": 0,
       "location": "madrid",
@@ -46,6 +49,7 @@
       "short_description": "A day in the Leipzig Zoo",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-03-27",
+      "date_to_seconds": 1711497600000,
       "time": "12:00",
       "price": 12,
       "location": "leipzig",
@@ -59,6 +63,7 @@
       "short_description": "Swimming, chatting, snacking..",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-05-21",
+      "date_to_seconds": 1716249600000,
       "time": "15:00",
       "price": 0,
       "location": "leipzig",
@@ -72,6 +77,7 @@
       "short_description": "Sightseeing in Madrid!",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-07-12",
+      "date_to_seconds": 1720742400000,
       "time": "12:00",
       "price": 8,
       "location": "madrid",
@@ -85,26 +91,26 @@
       "short_description": "Let's tinker together",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-07-01",
+      "date_to_seconds": 1719792000000,
       "time": "14:30",
       "price": 5,
       "location": "leipzig",
       "category": "learn",
       "participants": 32
     },
-
-
     {
-      "id": 8,
       "title": "Picknick in the Park",
       "image_url": "https://image.brigitte.de/10833558/t/0E/v6/w1440/r1.7778/-/picknick-rezepte-bild.jpg",
       "short_description": "Buffet for everyone",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-03-28",
       "time": "13:00",
-      "price": 0,
       "location": "leipzig",
+      "price": 0,
       "category": "relax",
-      "participants": 26
+      "participants": 29,
+      "date_to_seconds": 1711584000000,
+      "id": 8
     },
     {
       "id": 9,
@@ -113,6 +119,7 @@
       "short_description": "Surfing class for the entire family!",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-05-12",
+      "date_to_seconds": 1715472000000,
       "time": "10:30",
       "price": 18,
       "location": "madrid",
@@ -126,6 +133,7 @@
       "short_description": "Learn how to balance a plate on a stick!",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-06-24",
+      "date_to_seconds": 1719187200000,
       "time": "15:00",
       "price": 15,
       "location": "madrid",
@@ -139,6 +147,7 @@
       "short_description": "Unforgettable day in the ocean..",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-04-29",
+      "date_to_seconds": 1714348800000,
       "time": "17:00",
       "price": 45,
       "location": "madrid",
@@ -152,12 +161,167 @@
       "short_description": "Relax with us in our garden paradise",
       "description": "A cycling trip with a local. Come with us and discover the mountains of Madrid. The bike tour will approf. last for 3 hours. Bring a wind jacket and snacks <3",
       "date": "2024-05-12",
+      "date_to_seconds": 1715472000000,
       "time": "15:30",
       "price": 0,
       "location": "leipzig",
       "category": "relax",
       "participants": 5
+    },
+    {
+      "title": "baking workshop",
+      "image_url": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ej4tyi9summ82qtud9lw/Baking%20Workshop%20with%20Good%20Times%20DIY%20%26%20Lifestyle%20Cafe%20in%20Kuala%20Lumpur%20.jpg",
+      "short_description": "lets bake together",
+      "description": "a cycling trip with a local. come with us and discover the mountains of madrid. the bike tour will approf. last for 3 hours. bring a wind jacket and snacks <3",
+      "date": "2024-01-12",
+      "time": "17:30",
+      "location": "valencia",
+      "price": 12,
+      "category": "cooking",
+      "participants": 3,
+      "date_to_seconds": 1705017600,
+      "id": 13
+    },
+    {
+      "title": "forest sleepover",
+      "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399150725.jpg?k=4163bff820e6555a1c259bdd6c2f6128574b666ae1584feb172426f6b564a050&o=&hp=1",
+      "short_description": "sleeping in a tent",
+      "description": "a cycling trip with a local. come with us and discover the mountains of madrid. the bike tour will approf. last for 3 hours. bring a wind jacket and snacks <3 a cycling trip with a local. come with us and discover the mountains of madrid. the bike tour will approf. last for 3 hours. bring a wind jacket and snacks <3",
+      "date": "2024-02-03",
+      "time": "07:36",
+      "location": "sevilla",
+      "price": 8,
+      "category": "adventure",
+      "participants": 0,
+      "date_to_seconds": 1706918400,
+      "id": 14
+    },
+    {
+      "title": "birds watching",
+      "image_url": "https://media.cntraveler.com/photos/60393d70ed1e37b700b6145f/4:3/w_2220,h_1665,c_limit/F47P11-2.jpg",
+      "short_description": "watching birds in the morning ",
+      "description": "a cycling trip with a local. come with us and discover the mountains of madrid. the bike tour will approf. last for 3 hours. bring a wind jacket and snacks <3",
+      "date": "2023-12-08",
+      "time": "17:40",
+      "location": "sevilla",
+      "price": 0,
+      "category": "adventure",
+      "participants": 0,
+      "date_to_seconds": 1701993600,
+      "id": 15
+    },
+    {
+      "title": "teatime",
+      "image_url": "https://magazin.the-british-shop.de/fileadmin/_processed_/e/c/csm_tea-time_01_e6ab741e2e.jpg",
+      "short_description": "having a warm cup of tea together",
+      "description": "a cycling trip with a local. come with us and discover the mountains of madrid. the bike tour will approf. last for 3 hours. bring a wind jacket and snacks <3a cycling trip with a local. come with us and discover the mountains of madrid. the bike tour will approf. last for 3 hours. bring a wind jacket and snacks <3",
+      "date": "2023-12-16",
+      "time": "15:30",
+      "location": "berlin",
+      "price": 0,
+      "category": "cooking",
+      "participants": 0,
+      "date_to_seconds": 1702684800,
+      "id": 16
     }
-
+  ],
+  "stories": [
+    {
+      "user_name": "natalia",
+      "story_text": "We had an amazing day at the baking workshop. Our kids loved it and Esmeralda (the teacher) was such a wonderful person. Thank you so much!",
+      "eventId": 13,
+      "id": 1
+    },
+    {
+      "user_name": "christian",
+      "story_text": "I absolutely loved it! Amazing!",
+      "eventId": 13,
+      "id": 2
+    },
+    {
+      "user_name": "koala_1987",
+      "story_text": "Thank you very much for this great experience.",
+      "eventId": 13,
+      "id": 3
+    },
+    {
+      "user_name": "Madame-Henry",
+      "story_text": "I would do this any time again, merci for everything! Btw there is an amazing coffee place just around the corner, check it out!",
+      "eventId": 14,
+      "id": 4
+    },
+    {
+      "user_name": "unicorn_600",
+      "story_text": "Slept like a baby horse. 100% Fantastic.",
+      "eventId": 14,
+      "id": 5
+    },
+    {
+      "eventId": 13,
+      "user_name": "Reiner",
+      "story_text": "It was a blast",
+      "id": 6
+    },
+    {
+      "eventId": 15,
+      "user_name": "Laura",
+      "story_text": "I loved the pelicans and flyfish, amazing. ",
+      "id": 7
+    },
+    {
+      "eventId": 14,
+      "user_name": "Balduin",
+      "story_text": "Forest smell i love it",
+      "id": 8
+    },
+    {
+      "eventId": 14,
+      "user_name": "testuser",
+      "story_text": "has some experience",
+      "id": 9
+    },
+    {
+      "eventId": 15,
+      "user_name": "hubert",
+      "story_text": "my story is amazing but its too long to tell",
+      "id": 10
+    },
+    {
+      "eventId": 13,
+      "user_name": "Natalia 2",
+      "story_text": "make a story",
+      "id": 11
+    },
+    {
+      "eventId": 13,
+      "user_name": "Giesela",
+      "story_text": "Yes it was nice.",
+      "id": 12
+    },
+    {
+      "eventId": 16,
+      "user_name": "sorry_no_stroy",
+      "story_text": "-",
+      "id": 13
+    },
+    {
+      "eventId": 13,
+      "user_name": "a random name",
+      "story_text": "a random story",
+      "id": 14
+    },
+    {
+      "eventId": 16,
+      "user_name": "Hubert",
+      "story_text": "Hubert made a story",
+      "id": 15
+    }
+  ],
+  "logins": [
+    {
+      "user": "admin",
+      "pwd": "123",
+      "id": 1
+    }
   ]
 }
