@@ -178,7 +178,7 @@
       "location": "valencia",
       "price": 12,
       "category": "cooking",
-      "participants": 3,
+      "participants": 0,
       "date_to_seconds": 1705017600,
       "id": 13
     },
@@ -223,6 +223,48 @@
       "participants": 0,
       "date_to_seconds": 1702684800,
       "id": 16
+    },
+    {
+      "title": "audio walk",
+      "image_url": "https://www.thewalkingclassroom.org/wp-content/uploads/2016/01/King_classwalkoutside_AR.jpg",
+      "short_description": "an audio walk through the city",
+      "description": "an audio walk through the city with the entire family. all for free, bring your pets and snacks. all good. happy to see you, will be fun! ",
+      "date": "2024-03-08",
+      "time": "17:00",
+      "location": "sevilla",
+      "price": 0,
+      "category": "travelling",
+      "participants": 0,
+      "date_to_seconds": 1709856000000,
+      "id": 17
+    },
+    {
+      "title": "forest discovery",
+      "image_url": "https://media.istockphoto.com/id/1439944534/photo/family-with-backpacks-hiking-or-walking-through-woodland-countryside.jpg?s=612x612&w=0&k=20&c=gD0BlKG3pgvEM4LTuPukICjOE1IQGpJkRn1Q6mgsTaw=",
+      "short_description": "discover the forest!",
+      "description": "discover the forest with a local! bring snacks and proper shoes!",
+      "date": "2024-02-07",
+      "time": "12:30",
+      "location": "darmstadt",
+      "price": 0,
+      "category": "adventure",
+      "participants": 0,
+      "date_to_seconds": 1707264000000,
+      "id": 18
+    },
+    {
+      "title": "swimming",
+      "image_url": "https://dynamix-cdn.s3.amazonaws.com/shumateheatingandaircom/shumateheatingandaircom_513846639.jpeg",
+      "short_description": "in the ocean!",
+      "description": "for the whole family",
+      "date": "2024-03-21",
+      "time": "14:30",
+      "location": "barcelona",
+      "price": 0,
+      "category": "nature",
+      "participants": 0,
+      "date_to_seconds": 1710979200000,
+      "id": 19
     }
   ],
   "stories": [
@@ -255,66 +297,6 @@
       "story_text": "Slept like a baby horse. 100% Fantastic.",
       "eventId": 14,
       "id": 5
-    },
-    {
-      "eventId": 13,
-      "user_name": "Reiner",
-      "story_text": "It was a blast",
-      "id": 6
-    },
-    {
-      "eventId": 15,
-      "user_name": "Laura",
-      "story_text": "I loved the pelicans and flyfish, amazing. ",
-      "id": 7
-    },
-    {
-      "eventId": 14,
-      "user_name": "Balduin",
-      "story_text": "Forest smell i love it",
-      "id": 8
-    },
-    {
-      "eventId": 14,
-      "user_name": "testuser",
-      "story_text": "has some experience",
-      "id": 9
-    },
-    {
-      "eventId": 15,
-      "user_name": "hubert",
-      "story_text": "my story is amazing but its too long to tell",
-      "id": 10
-    },
-    {
-      "eventId": 13,
-      "user_name": "Natalia 2",
-      "story_text": "make a story",
-      "id": 11
-    },
-    {
-      "eventId": 13,
-      "user_name": "Giesela",
-      "story_text": "Yes it was nice.",
-      "id": 12
-    },
-    {
-      "eventId": 16,
-      "user_name": "sorry_no_stroy",
-      "story_text": "-",
-      "id": 13
-    },
-    {
-      "eventId": 13,
-      "user_name": "a random name",
-      "story_text": "a random story",
-      "id": 14
-    },
-    {
-      "eventId": 16,
-      "user_name": "Hubert",
-      "story_text": "Hubert made a story",
-      "id": 15
     }
   ],
   "logins": [
